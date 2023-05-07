@@ -1,5 +1,5 @@
 Update: 
-Remove node_modules folder to minimize repo size, therefore run npm install before run the script
+Removed node_modules folder to minimize repo size, therefore run npm install before run the script
 
 TO show result on browser console, installed snowpack library 
 
